@@ -1,0 +1,228 @@
+Code,Country
+AFGH,Afghanistan 
+ALBA,Albania 
+ALGE,Algeria 
+AMER,American Samoa 
+ANDO,Andorra 
+ANGO,Angola 
+ANGU,Anguilla 
+ANTI,Antigua & Barbuda 
+ARGE,Argentina 
+ARME,Armenia 
+ARUB,Aruba 
+AUS1,Australia 
+AUS2,Austria 
+AZER,Azerbaijan 
+BAHA,"Bahamas, The "
+BAHR,Bahrain 
+BANG,Bangladesh 
+BARB,Barbados 
+BELA,Belarus 
+BELG,Belgium 
+BELI,Belize 
+BENI,Benin 
+BERM,Bermuda 
+BHUT,Bhutan 
+BOLI,Bolivia 
+BOSN,Bosnia & Herzegovina 
+BOTS,Botswana 
+BRAZ,Brazil 
+BRIT,British Virgin Is. 
+BRUN,Brunei 
+BULG,Bulgaria 
+BURK,Burkina Faso 
+BURM,Burma 
+BURU,Burundi 
+CAMB,Cambodia 
+CAME,Cameroon 
+CANA,Canada 
+CAPE,Cape Verde 
+CAYM,Cayman Islands 
+CENT,Central African Rep. 
+CHAD,Chad 
+CHIL,Chile 
+CHIN,China 
+COLO,Colombia 
+COMO,Comoros 
+CON1,"Congo, Dem. Rep. "
+CON2,"Congo, Repub. of the "
+COOK,Cook Islands 
+COST,Costa Rica 
+COTE,Cote d'Ivoire 
+CROA,Croatia 
+CUBA,Cuba 
+CYPR,Cyprus 
+CZEC,Czech Republic 
+DENM,Denmark 
+DJIB,Djibouti 
+DOM1,Dominica 
+DOM2,Dominican Republic 
+EAST,East Timor 
+ECUA,Ecuador 
+EGYP,Egypt 
+EL S,El Salvador 
+EQUA,Equatorial Guinea 
+ERIT,Eritrea 
+ESTO,Estonia 
+ETHI,Ethiopia 
+FARO,Faroe Islands 
+FIJI,Fiji 
+FINL,Finland 
+FRAN,France 
+FRE1,French Guiana 
+FRE2,French Polynesia 
+GABO,Gabon 
+GAMB,"Gambia, The "
+GAZA,Gaza Strip 
+GEOR,Georgia 
+GERM,Germany 
+GHAN,Ghana 
+GIBR,Gibraltar 
+GRE1,Greece 
+GRE2,Greenland 
+GREN,Grenada 
+GUAD,Guadeloupe 
+GUAM,Guam 
+GUAT,Guatemala 
+GUER,Guernsey 
+GUI1,Guinea 
+GUI2,Guinea-Bissau 
+GUYA,Guyana 
+HAIT,Haiti 
+HOND,Honduras 
+HONG,Hong Kong 
+HUNG,Hungary 
+ICEL,Iceland 
+INDI,India 
+INDO,Indonesia 
+IRAN,Iran 
+IRAQ,Iraq 
+IREL,Ireland 
+ISLE,Isle of Man 
+ISRA,Israel 
+ITAL,Italy 
+JAMA,Jamaica 
+JAPA,Japan 
+JERS,Jersey 
+JORD,Jordan 
+KAZA,Kazakhstan 
+KENY,Kenya 
+KIRI,Kiribati 
+KORN,"Korea, North "
+KORS,"Korea, South "
+KUWA,Kuwait 
+KYRG,Kyrgyzstan 
+LAOS,Laos 
+LATV,Latvia 
+LEBA,Lebanon 
+LESO,Lesotho 
+LIBE,Liberia 
+LIBY,Libya 
+LIEC,Liechtenstein 
+LITH,Lithuania 
+LUXE,Luxembourg 
+MACA,Macau 
+MACE,Macedonia 
+MADA,Madagascar 
+MAL1,Malawi 
+MAL2,Malaysia 
+MALD,Maldives 
+MALI,Mali 
+MALT,Malta 
+MARS,Marshall Islands 
+MART,Martinique 
+MAU1,Mauritania 
+MAU2,Mauritius 
+MAYO,Mayotte 
+MEXI,Mexico 
+MICR,"Micronesia, Fed. St. "
+MOLD,Moldova 
+MONA,Monaco 
+MONG,Mongolia 
+MONT,Montserrat 
+MORO,Morocco 
+MOZA,Mozambique 
+NAMI,Namibia 
+NAUR,Nauru 
+NEPA,Nepal 
+NET1,Netherlands 
+NET2,Netherlands Antilles 
+NEWC,New Caledonia 
+NEWZ,New Zealand 
+NICA,Nicaragua 
+NIG1,Niger 
+NIG2,Nigeria 
+N. M,N. Mariana Islands 
+NORW,Norway 
+OMAN,Oman 
+PAKI,Pakistan 
+PALA,Palau 
+PANA,Panama 
+PAPU,Papua New Guinea 
+PARA,Paraguay 
+PERU,Peru 
+PHIL,Philippines 
+POLA,Poland 
+PORT,Portugal 
+PUER,Puerto Rico 
+QATA,Qatar 
+REUN,Reunion 
+ROMA,Romania 
+RUSS,Russia 
+RWAN,Rwanda 
+SAI1,Saint Helena 
+SAI2,Saint Kitts & Nevis 
+SAI3,Saint Lucia 
+ST P,St Pierre & Miquelon 
+SAIN,Saint Vincent and the Grenadines 
+SAMO,Samoa 
+SAN ,San Marino 
+SAO ,Sao Tome & Principe 
+SAUD,Saudi Arabia 
+SENE,Senegal 
+SERB,Serbia 
+SEYC,Seychelles 
+SIER,Sierra Leone 
+SING,Singapore 
+SLO1,Slovakia 
+SLO2,Slovenia 
+SOLO,Solomon Islands 
+SOMA,Somalia 
+SOUT,South Africa 
+SPAI,Spain 
+SRI ,Sri Lanka 
+SUDA,Sudan 
+SURI,Suriname 
+SWAZ,Swaziland 
+SWED,Sweden 
+SWIT,Switzerland 
+SYRI,Syria 
+TAIW,Taiwan 
+TAJI,Tajikistan 
+TANZ,Tanzania 
+THAI,Thailand 
+TOGO,Togo 
+TONG,Tonga 
+TRIN,Trinidad & Tobago 
+TUNI,Tunisia 
+TUR1,Turkey 
+TUR2,Turkmenistan 
+TUR3,Turks & Caicos Is 
+TUVA,Tuvalu 
+UGAN,Uganda 
+UKRA,Ukraine 
+UNI1,United Arab Emirates 
+UNI2,United Kingdom 
+UNI3,United States 
+URUG,Uruguay 
+UZBE,Uzbekistan 
+VANU,Vanuatu 
+VENE,Venezuela 
+VIET,Vietnam 
+VIRG,Virgin Islands 
+WALL,Wallis and Futuna 
+WES1,West Bank 
+WES2,Western Sahara 
+YEME,Yemen 
+ZAMB,Zambia 
+ZIMB,Zimbabwe 
