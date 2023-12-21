@@ -2,17 +2,20 @@
 
 <h3>Project Overview & Purpose</h3>
 
-<ul> The affects of socioeconomic indicators on GDP per Capita  </ul>
+The affects of socioeconomic indicators on GDP per Capita
 
-Project Instructions
+<h3>Project Instructions</h3>
 
-Databases Used and Why
+<h3>Databases Used and Why</h3>
 
-ETL Workflow with Diagram
+- We used postgres to create our databases
+- We felt that since our data wasn't so complex, that Postgres would more useful
 
-Ethical Considerations
+<h3>ETL Workflow with Diagram</h3>
+
+<h3>Ethical Considerations</h3>
 
 Since the data we used is sourced from the public domain, there are very few ethical considerations. While we will always need to be mindful of individual privacy, the data we sourced, contains data strictly regarding the country's GDP and socioeconomic indicators. 
 
 
-References
+<h3>References</h3>
