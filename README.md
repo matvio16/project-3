@@ -6,6 +6,12 @@ The affects of socioeconomic and climate change indicators on GDP per Capita
 
 <h3>Project Instructions</h3>
 
+- You can use this database to analyze if socioeconomic and climate change indicators have an affect on GDP per Capita.
+- We used PETL to create a DataFrame and then cleaned up the data, removing columns that fell outside the scope of the project. Converted decimal commas to decimal periods.
+- We used psycopg2 to create the database and tables
+- We used Flask API 
+
+
 <h3>Databases Used and Why</h3>
 
 - We used postgres to create our databases
