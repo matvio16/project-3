@@ -2,14 +2,14 @@
 
 <h3>Project Overview & Purpose</h3>
 
-The affects of socioeconomic indicators on GDP per Capita
+The affects of socioeconomic and climate change indicators on GDP per Capita
 
 <h3>Project Instructions</h3>
 
 <h3>Databases Used and Why</h3>
 
 - We used postgres to create our databases
-- We felt that since our data wasn't so complex, that Postgres would more useful
+-Since our data wasn't complex, we decided to use postgres over mongoDB
 
 <h3>ETL Workflow with Diagram</h3>
 
@@ -18,7 +18,11 @@ The affects of socioeconomic indicators on GDP per Capita
 
 <h3>Ethical Considerations</h3>
 
-Since the data we used is sourced from the public domain, there are very few ethical considerations. While we will always need to be mindful of individual privacy, the data we sourced, contains data strictly regarding the country's GDP and socioeconomic indicators. 
+1. Data Security and Privacy: Ensuring that individuals' data is secure from unauthorized access by using encryption and access controls. Also, privacy regulations should be considered like HIPPA, GLBA, GDPR and etc.
+2. Fairness and Bias: Regularly testing algorithms and models to identify any bias in results that unfairly disadvantage certain groups.
+3. Transparency and Accountability: Making sure the data science process and decision-making transparent and understandly.
+4. Informed Consent: Does the end-user understand what type of data is being collected and how it will be used?
+5. Data Accuracy: Ensuring that the data is accurate, that the cleaning process did not accidentally introduce bias. 
 
 
 <h3>References</h3>
