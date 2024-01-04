@@ -13,6 +13,9 @@ The affects of socioeconomic indicators on GDP per Capita
 
 <h3>ETL Workflow with Diagram</h3>
 
+![GDP](https://github.com/matvio16/project-3/assets/15304495/e78077b1-9840-4a24-b205-bc24fe390410)
+
+
 <h3>Ethical Considerations</h3>
 
 Since the data we used is sourced from the public domain, there are very few ethical considerations. While we will always need to be mindful of individual privacy, the data we sourced, contains data strictly regarding the country's GDP and socioeconomic indicators. 
