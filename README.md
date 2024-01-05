@@ -14,6 +14,21 @@ The affects of socioeconomic and climate change indicators on GDP per Capita
 
 - Also FLASK API can be used to view the dataset and draw analysis as well
 
+<h3>API Routes</h3>
+/api/v1.0/countries - returns a list of all countries in the dataset
+/api/v1.0/regions - returns a list of all unique regions in the dataset
+/api/v1.0/all - returns all useful data for each country
+/api/v1.0/country/country_name - returns all data for the specified country (country_name). If a country is not found, an error will occur.
+/api/v1.0/gdp - returns each country with their GDP Per Capita
+/api/v1.0/area - returns each country with their GDP Per Capita and area in sq. mi.
+/api/v1.0/birthrate - returns each country with their GDP Per Capita and birthrate
+/api/v1.0/coastline - returns each country with their GDP Per Capita and coastline (coast/area ratio)
+/api/v1.0/infant_mortality - returns each country with their GDP Per Capita and infant mortality (per 1000 births)
+/api/v1.0/literacy - returns each country with their GDP Per Capita and literacy %
+/api/v1.0/net_migration - returns each country with their GDP Per Capita and net migration
+/api/v1.0/phones - returns each country with their GDP Per Capita and phones (per 1000)
+/api/v1.0/pop_density - returns each country with their GDP Per Capita and population density (per sq. mi.)
+/api/v1.0/population - returns each country with their GDP Per Capita and population
 
 <h3>Databases Used and Why</h3>
 
@@ -36,4 +51,6 @@ The affects of socioeconomic and climate change indicators on GDP per Capita
 
 
 <h3>References</h3>
-
+https://www.kaggle.com/datasets/fernandol/countries-of-the-world
+https://www.psycopg.org/psycopg3/docs/
+https://petl.readthedocs.io/en/stable/#
