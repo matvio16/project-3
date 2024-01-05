@@ -51,6 +51,6 @@ The affects of socioeconomic and climate change indicators on GDP per Capita
 
 
 <h3>References</h3>
-https://www.kaggle.com/datasets/fernandol/countries-of-the-world
-https://www.psycopg.org/psycopg3/docs/
+https://www.kaggle.com/datasets/fernandol/countries-of-the-world <br>
+https://www.psycopg.org/psycopg3/docs/ <br>
 https://petl.readthedocs.io/en/stable/#
